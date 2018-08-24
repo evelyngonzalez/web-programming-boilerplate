@@ -1,6 +1,9 @@
 {
-	"extends": [
-		"@ucudal/eslint-config",
-		"plugin:prettier/recomended"
-	]
+	"env":{
+		"jest":true
+		"node":true
+	},
+	"plugins":["prettier"],
+	"extends": ["@ucudal","plugin:prettier/recomended"]
+	
 }
