@@ -20,6 +20,7 @@
   "homepage": "https://github.com/evelyngonzalez/web-programming-boilerplate#readme",
   "devDependencies": {
     "@ucudal/eslint-config": "^0.1.0",
+    "@ucudal/stylelint-config": "^0.1.0",
     "eslint": "^4.19.1",
     "eslint-config-prettier": "^2.9.0",
     "eslint-plugin-import": "^2.13.0",
