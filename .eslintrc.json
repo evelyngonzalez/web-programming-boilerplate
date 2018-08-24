@@ -2,14 +2,9 @@
 	"env":{
 		"jest":true,
 		"node":true
-	},
-	"plugins":["prettier"],
-	
+	},	
 	"extends": [
-		"plugin:prettier/recommended",
-		"prettier/flowtype",
-		"prettier/react",
-		"prettier/standard"
+		"plugin:prettier/recommended"
 	]
 
 	
