@@ -4,6 +4,13 @@
 		"node":true
 	},
 	"plugins":["prettier"],
-	"extends": ["@ucudal","plugin:prettier/recomended"]
+	
+	"extends": [
+		"plugin:prettier/recommended",
+		"prettier/flowtype",
+		"prettier/react",
+		"prettier/standard"
+	]
+
 	
 }
